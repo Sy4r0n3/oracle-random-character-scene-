@@ -1,0 +1,8 @@
+{
+  "name": "ORACLE Random Character Scene",
+  "short_name": "ORACLE",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15121c",
+  "theme_color": "#17131f"
+}
